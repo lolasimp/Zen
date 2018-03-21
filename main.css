@@ -20,7 +20,7 @@ header {
 
 p {
     color: white;
-    margin: 0 74px 0 19px;
+    margin: 0 74px 0 20px;
     width: 239px;
 }
 
@@ -98,9 +98,6 @@ font-family: Tahoma, sans-serif;
 font-weight: normal;
 }
 
-#styles {
-
-}
 
 footer{
     position: absolute;
